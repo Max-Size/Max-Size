@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Max-Size
+## 👋 Hi, I’m @Max-Size
 - 👀 I’m interested in android dev
 - 🌱 I’m currently learning Java and android platform
 - 💞️ I’m looking to collaborate on apps development
